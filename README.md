@@ -1,5 +1,7 @@
 # Visual Skill Library
 
+English | [中文](README.zh-CN.md)
+
 A personal collection of visually distinctive AI skills, workflows, and design systems that I may actually use.
 
 This repository is intentionally lightweight: things can be collected first, reviewed later, and reorganized as the library grows. Current entries are mostly image-generation and photo-transformation skills, with room for data visualization, diagrams, editorial design, and other aesthetic workflows.
