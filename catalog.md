@@ -8,6 +8,7 @@ Reviewed or at least source-checked entries. Ratings are deliberately omitted fo
 | Image generation · photo-preserving / postcard | `photo-to-zine-postcard` | [Whiplashzeb/photo-to-zine-postcard](https://github.com/Whiplashzeb/photo-to-zine-postcard) | Turns one source photo into a coordinated 2:3 zine-style postcard front and back, with the original photo above, one source-specific hand-drawn motif, three sampled color swatches, and minimal metadata. | Reviewed | MIT per upstream README |
 | Image generation · photo-preserving | `travel-photo-abstraction` | [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) | Engineering-heavy photo + abstract-panel workflow with bundled references, deterministic composition, and output validation. | Reviewed | Source-available; modification/derivatives/redistribution restricted |
 | Image generation · photo-preserving | `scenes-gathered-zine-v1-3` | [Zeejay0/gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) | Uses truthful photography as an anchor while extending the scene through abstraction, illustration, structural color, and torn-paper boundaries. | Reviewed | Verify upstream before reuse |
+| Image generation · photo-reinterpretation / surreal staging | `reality-restaged` | [traveler0621/reality-restaged](https://github.com/traveler0621/reality-restaged) | Preserves documentary subjects, gestures, cultural anchors, and relationships while radically simplifying and recomposing the surrounding world into a restrained surreal cinematic tableau built from large color fields, negative space, scale tension, and one impossible relationship. | Reviewed | No license declared upstream; index only, do not copy or redistribute `SKILL.md` or assets without permission |
 | Image generation · photo-reinterpretation | `scene-distillation-zine-v1-3` | [Zeejay0/gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) | Removes the original photograph from the final piece and rebuilds its semantic nucleus, tension, and visual metaphor as an independent zine poster. | Reviewed | Verify upstream before reuse |
 | Editorial / poster | `gc-minimal-zine-poster` | [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | Minimal editorial zine/poster system built around negative space, a compact visual cluster, paper texture, and a controlled chromatic anchor. | Reviewed | MIT per upstream README; re-check before copying code |
 | Experimental interface | `tait-crt-interface-skill` | [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | Reconstructs people, objects, or scenes as an early-computer / CRT pixel interface with subject anchoring and deterministic post-processing. | Reviewed | Verify upstream before reuse |
@@ -25,6 +26,8 @@ photo-abstract-editorial / photo-to-zine-postcard
 travel-photo-abstraction
         ↓
 scenes-gathered-zine
+        ↓
+reality-restaged
         ↓
 scene-distillation-zine
         ↓
