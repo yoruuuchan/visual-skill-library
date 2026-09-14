@@ -29,6 +29,7 @@
 | 编辑设计 / 海报 | `gc-minimal-zine-poster` | <img src="https://raw.githubusercontent.com/LiamGvchi/gc-minimal-zine-poster/main/examples/night-door.jpeg" width="180" alt="gc-minimal-zine-poster preview"> | [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | 极简 Zine / 编辑海报系统，强调大留白、小视觉簇、纸张质感与受控高饱和色锚。 |
 | 实验界面 | `tait-crt-interface-skill` | <img src="https://raw.githubusercontent.com/TaiT-tt/tait-crt-interface-skill/main/%E7%94%9F%E6%88%90%E7%A4%BA%E4%BE%8B/%E7%BB%8F%E5%85%B8a.png" width="180" alt="tait-crt-interface-skill preview"> | [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | 将人物、物体或场景重构为早期计算机 / CRT 像素界面，带主体锚定和确定性后处理。 |
 | 数据可视化 | `lieflat-charts` | <img src="https://raw.githubusercontent.com/larashero3-dotcom/lieflat-charts/main/docs/assets/preview-lupi-01.png" width="220" alt="lieflat-charts preview"> | [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) | 模板驱动的编辑型数据可视化系统，包含 Lupi、Basics、Glance 与 Interactive，主要输出可编辑 HTML。 |
+| 动效 / 视频 · 剪纸 | `paper-cut-video` | [查看上游示例](https://github.com/crawfordxx/paper-cut-video-skill) | [crawfordxx/paper-cut-video-skill](https://github.com/crawfordxx/paper-cut-video-skill) | 面向中文视频的国风剪纸工作流：分离背景、后排、主角和前景纸片层，用 Remotion 做分层动画，并提供语义字幕、可选 TTS 与视频质检流程。 |
 
 ## 当前分类
 
@@ -36,5 +37,6 @@
 - **编辑设计 / 海报系统** — Zine、海报、杂志式排版等可复用视觉语言。
 - **实验界面** — CRT、复古计算机、像素界面等具有强烈视觉特征的重构系统。
 - **数据可视化** — 拥有明确图表语法、模板和数据叙事方法的可视化系统。
+- **动效 / 视频** — 可复用的动效设计系统、分层动画工作流与视频原生视觉语言。
 
 更详细的状态、许可证备注和照片转译保真度关系见 [`catalog.md`](catalog.md)；等待整理的内容见 [`inbox.md`](inbox.md)。

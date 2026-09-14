@@ -29,6 +29,7 @@ This repository is intentionally lightweight: things can be collected first, rev
 | Editorial / poster | `gc-minimal-zine-poster` | <img src="https://raw.githubusercontent.com/LiamGvchi/gc-minimal-zine-poster/main/examples/night-door.jpeg" width="180" alt="gc-minimal-zine-poster preview"> | [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | Minimal editorial zine/poster system built around negative space, a compact visual cluster, paper texture, and a controlled chromatic anchor. |
 | Experimental interface | `tait-crt-interface-skill` | <img src="https://raw.githubusercontent.com/TaiT-tt/tait-crt-interface-skill/main/%E7%94%9F%E6%88%90%E7%A4%BA%E4%BE%8B/%E7%BB%8F%E5%85%B8a.png" width="180" alt="tait-crt-interface-skill preview"> | [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | Reconstructs people, objects, or scenes as an early-computer / CRT pixel interface with subject anchoring and deterministic post-processing. |
 | Data visualization | `lieflat-charts` | <img src="https://raw.githubusercontent.com/larashero3-dotcom/lieflat-charts/main/docs/assets/preview-lupi-01.png" width="220" alt="lieflat-charts preview"> | [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) | Template-driven editorial charts and data stories: Lupi Editorial, Basics, Glance, and Interactive, primarily delivered as editable HTML. |
+| Motion / video · paper cut | `paper-cut-video` | [View upstream demos](https://github.com/crawfordxx/paper-cut-video-skill) | [crawfordxx/paper-cut-video-skill](https://github.com/crawfordxx/paper-cut-video-skill) | Script-driven Chinese paper-cut video workflow with layered paper characters and environments, Remotion templates, semantic captions, optional TTS, and video QC. |
 
 ## Current categories
 
@@ -36,5 +37,6 @@ This repository is intentionally lightweight: things can be collected first, rev
 - **Editorial / poster systems** — reusable visual languages for zines, posters, and layout-driven artwork.
 - **Experimental interfaces** — CRT, retro-computing, pixel-interface, and other strong visual reconstructions.
 - **Data visualization** — chart and data-story systems with explicit visual grammar.
+- **Motion / video** — reusable motion-design systems, layered animation workflows, and video-native visual languages.
 
 See [`catalog.md`](catalog.md) for detailed status, license notes, and the current source-fidelity map. See [`inbox.md`](inbox.md) for things waiting to be sorted.

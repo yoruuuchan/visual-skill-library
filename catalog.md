@@ -13,6 +13,11 @@ Reviewed or at least source-checked entries. Ratings are deliberately omitted fo
 | Editorial / poster | `gc-minimal-zine-poster` | [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | Minimal editorial zine/poster system built around negative space, a compact visual cluster, paper texture, and a controlled chromatic anchor. | Reviewed | MIT per upstream README; re-check before copying code |
 | Experimental interface | `tait-crt-interface-skill` | [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | Reconstructs people, objects, or scenes as an early-computer / CRT pixel interface with subject anchoring and deterministic post-processing. | Reviewed | Verify upstream before reuse |
 | Data visualization | `lieflat-charts` | [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) | Template-driven editorial charts and data stories: Lupi Editorial, Basics, Glance, and Interactive, primarily delivered as editable HTML. | Reviewed | Verify upstream license terms before reuse |
+| Motion / video · paper cut | `paper-cut-video` | [crawfordxx/paper-cut-video-skill](https://github.com/crawfordxx/paper-cut-video-skill) | Script-driven Chinese paper-cut video workflow: design content-matched characters and environments, separate background/rear/hero/foreground paper layers, animate them in Remotion, and optionally add semantic captions, TTS, and final video validation. | Tested technically · taste review pending | MIT per upstream repository |
+
+## Test notes
+
+- **2026-09-14 · `paper-cut-video`** — Used as the source workflow for a 6.5 s, 1920×1080 Guangyang Island hiking/team-building Vlog opener. The upstream scaffold was adapted to horizontal Remotion; TypeScript checking, composition discovery, and a Windows-local H.264 preview render all passed. This records technical usability only; Yoru's visual/taste verdict on the resulting opener is still pending.
 
 ## Rough source-fidelity map
 
