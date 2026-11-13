@@ -2,21 +2,21 @@
 
 English | [中文](README.zh-CN.md)
 
-A personal collection of visually distinctive AI skills, workflows, and design systems that I may actually use.
+My personal collection of AI skills, workflows, and design systems with a distinct visual style. These are the ones I may actually use.
 
-This repository is intentionally lightweight: things can be collected first, reviewed later, and reorganized as the library grows. Current entries are mostly image-generation and photo-transformation skills, with room for data visualization, diagrams, editorial design, and other aesthetic workflows.
+I keep this repository light on purpose. Things get collected first, reviewed later, and reorganized as the library grows. Right now it's mostly image-generation and photo-transformation skills, with room for data visualization, diagrams, editorial design, and other aesthetic workflows.
 
 ## How this library works
 
-- **Collect first.** Interesting skills can go into `inbox.md` without full analysis.
-- **Review later.** Duplicate or closely related projects are merged during cleanup.
-- **Prefer real use.** A skill becomes more valuable after it has been tested on an actual task.
-- **Read the current source.** When a skill is used, check its latest `SKILL.md` instead of relying on an old summary.
-- **Respect licenses.** Each project keeps its own license and usage restrictions; this repository indexes and comments on them rather than republishing their code.
+- Collect first. Interesting skills can go into `inbox.md` without a full analysis.
+- Review later. Duplicate or closely related projects get merged during cleanup.
+- Prefer real use. A skill is worth more once it has been tested on an actual task.
+- Read the current source. When I use a skill, I check its latest `SKILL.md` instead of relying on an old summary.
+- Respect licenses. Each project keeps its own license and usage restrictions. This repository indexes and comments on them; it does not republish their code.
 
 ## Curated skills
 
-> Preview images are hotlinked from upstream repositories rather than copied into this repository. Copyright and license terms remain with the upstream projects and original creators. Projects with explicit republication restrictions or no declared license are linked to their upstream examples instead of embedding the image here.
+> Preview images are hotlinked from the upstream repositories, not copied into this one. Copyright and license terms remain with the upstream projects and original creators. For projects with explicit republication restrictions or no declared license, I link to their upstream examples instead of embedding the image here.
 
 | Category | Skill | Preview | GitHub | What it does |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ This repository is intentionally lightweight: things can be collected first, rev
 
 ## Current categories
 
-- **Image generation / photo transformation** — preserving, abstracting, reinterpreting, or strongly restyling source images.
-- **Editorial / poster systems** — reusable visual languages for zines, posters, and layout-driven artwork.
-- **Experimental interfaces** — CRT, retro-computing, pixel-interface, and other strong visual reconstructions.
-- **Data visualization** — chart and data-story systems with explicit visual grammar.
-- **Motion / video** — reusable motion-design systems, layered animation workflows, and video-native visual languages.
+- Image generation / photo transformation: preserving, abstracting, reinterpreting, or strongly restyling source images.
+- Editorial / poster systems: reusable visual languages for zines, posters, and layout-driven artwork.
+- Experimental interfaces: CRT, retro-computing, pixel-interface, and other strong visual reconstructions.
+- Data visualization: chart and data-story systems with an explicit visual grammar.
+- Motion / video: reusable motion-design systems, layered animation workflows, and video-native visual languages.
 
-See [`catalog.md`](catalog.md) for detailed status, license notes, and the current source-fidelity map. See [`inbox.md`](inbox.md) for things waiting to be sorted.
+[`catalog.md`](catalog.md) has the detailed status, license notes, and the current source-fidelity map. Things waiting to be sorted are in [`inbox.md`](inbox.md).
